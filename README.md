@@ -67,9 +67,9 @@ This course is created by a team of data science practitioners and researchers d
 <!-- Add your team members here -->
 - **Course Lead:** [Anastasiia Kulakova](https://www.linkedin.com/in/anastasiia-kulakova-30704a174/)
 
-- **Educational Institution Partner:** [Russian Independent Media Archive]()
+- **Educational Institution Partner:** [Smolny Beyond Borders: A Liberal Arts Initiative](https://smolny.org/)
 
-- **Non-profit Partner:**[ Russian Independent Media Archive]()
+- **Non-profit Partner:**[ Russian Independent Media Archive](https://rima.media/)
 
 ## 🛠️ Prerequisites & Tools
 
